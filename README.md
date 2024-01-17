@@ -51,11 +51,12 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to explore, modify, and learn from this project! If you have any questions or suggestions, please open an issue.
- #Images 
+ # preview Images 
+ >># productsimages
  ![image](https://github.com/hrdv10/Amazon-clone/assets/89665648/9fa986a2-385e-43e9-86bb-26cbb2636e4f)
- #secondimages
+ #homepageimages
  ![image](https://github.com/hrdv10/Amazon-clone/assets/89665648/b14661a3-5c24-4770-a178-cbdfdfd82183)
- # images
+ # authentications images
 ![image](https://github.com/hrdv10/Amazon-clone/assets/89665648/4ceea059-1b0a-4d13-ad16-f050da9d4560)
 
 
