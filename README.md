@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Feel free to explore, modify, and learn from this project! If you have any questions or suggestions, please open an issue.
  # preview 
- >># products images
+ >># products 
  ![image](https://github.com/hrdv10/Amazon-clone/assets/89665648/9fa986a2-385e-43e9-86bb-26cbb2636e4f)
  
  >>> # Homaepage
