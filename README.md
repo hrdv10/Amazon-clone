@@ -1,6 +1,6 @@
 # Amazon-clone
 Amazon Clone Project
-Welcome to the Amazon Clone project! This project is a demonstration of building a simplified version of the popular e-commerce platform Amazon. 
+ This project is a demonstration of building a simplified version of the popular e-commerce platform Amazon. 
 
 Table of Contents
 Features
