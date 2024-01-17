@@ -14,8 +14,8 @@ User Authentication: Sign up, log in, and log out securely.
 Shopping Cart: Add products to the cart and manage items.
 Checkout Process: Simulate a checkout process with order summary.
 Responsive Design: Enjoy a seamless experience on various devices.
-Setup
-Clone the Repository:
+Setup/
+Clone this  Repository as :
 
 
 Copy code
