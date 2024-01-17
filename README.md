@@ -19,7 +19,7 @@ Clone the Repository:
 
 
 Copy code
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/hrdv10/amazon-clone.git
 Navigate to the Project Directory:
 
 Copy code
